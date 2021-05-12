@@ -82,6 +82,7 @@ body > .to-main-header > header > h4 {
 .content section > header {
   padding-bottom: 8px;
   border-bottom: var(--light) 2px solid;
+  white-space: normal;
 }
 .content > main > section > header {
   border-bottom: var(--dark) 2px solid;
